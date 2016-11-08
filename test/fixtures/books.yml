@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  pirce: 9.99
+  author: one
+  publisher: one
+  publisher_type: Publisher
+
+two:
+  title: MyString
+  pirce: 9.99
+  author: two
+  publisher: two
+  publisher_type: Publisher
